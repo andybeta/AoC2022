@@ -1,7 +1,5 @@
 import sys
 import string
-# create map a-z:1-26
-# and A-Z:27-52
 # split line in half
 # for each letter in 1, is it in 2?
 # if yes, look up score and add to total; break
