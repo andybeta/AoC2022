@@ -9,7 +9,7 @@ path = sys.argv[1]
 with open(path, 'r') as file:
     lines = [line.strip() for line in file]
 
-# ord(a) = 96
+# ord(a) = 97
 # ord(A) = 65
 
 total = 0
